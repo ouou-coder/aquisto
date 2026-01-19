@@ -1,0 +1,7 @@
+{
+  "name": "采购助手 (Procurement Pro)",
+  "description": "A standalone mobile-optimized procurement app for fashion buyers to capture product data, generate shareable WeChat cards, and export daily Excel reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
